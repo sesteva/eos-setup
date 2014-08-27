@@ -5,7 +5,7 @@
 for files in sources-*.sh
 do
 	echo "Processing $files"
-	./"$files"
+	./sources/"$files"
 done
 
 sudo apt-get -y update

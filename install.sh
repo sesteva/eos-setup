@@ -5,7 +5,7 @@
 for files in install-*.sh
 do
 	echo "Processing $files"
-	./"$files"
+	./install/"$files"
 done
 
 source ~/.bashrc
