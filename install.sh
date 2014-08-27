@@ -8,5 +8,6 @@ do
 	./install/"$files"
 done
 
+cp files/.bash_aliases $HOME
 source ~/.bashrc
 
