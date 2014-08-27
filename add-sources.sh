@@ -1,5 +1,7 @@
 #!/bin/bash
 
+. ./variables.sh
+
 for files in sources-*.sh
 do
 	echo "Processing $files"
