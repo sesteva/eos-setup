@@ -4,4 +4,4 @@
 Update variables.sh and then execute:
 
 	sudo ./add-sources.sh
-        sudo ./install.sh
+	sudo ./install.sh
